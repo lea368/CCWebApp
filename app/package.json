@@ -1,0 +1,23 @@
+{
+  "name": "webcc",
+  "version": "1.0.0",
+  "description": "Web Oficial de Cortando Canas",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "googleapis": "^66.0.0",
+    "morgan": "^1.10.0",
+    "mssql": "^7.2.1",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.15"
+  },
+  "keywords": []
+}
